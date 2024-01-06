@@ -1,0 +1,16 @@
+Commandes Git de base:
+
+- git init
+pour initialiser le dossier de travail afin que Git commence à versionner tous les fichiers
+
+- git clone 
+pour clone un dossier de travail distant / récupérer un projet en ligne
+
+- git commit -m ''
+enregister le travail effectué sur la branche locale
+
+- git push origin main
+sauvegarder les fichiers suivis dans le repertoire distant
+
+- git pull
+mettre à jour sa branche locale à partir de la distante
